@@ -1,8 +1,10 @@
 # WRO-Auto-BackyardBuilders
----
 Content
 ---
+...
+
 Einleitung:
+---
 
 Zunächst haben wir das Auto aufgebaut auf Basis von Fischertechnik. Ausgestattet mit einem Fischertechnik Servo zur Lenkung ,einem rotem Encoder Motor und einem  Differential Antrieb an der Hinterachse.
 Zur Steuerung haben wir einen Fischertechnik TXT Controller mit einem I2C Leveschifter und einem I2C Servoadapter eingesetzt. Das lässt sich alles in Fischertechnik Robopro programmieren.
