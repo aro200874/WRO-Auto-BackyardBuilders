@@ -13,7 +13,7 @@ Der Fischertechnik Servo ging sehr schnell kaputt. Daher sind wir auf baugleiche
 
 Bei der Fahrt im Uhrzeigersinn Treht sich der Motor dauerhaft vorwärts. Dabei misst der Rechte Ultraschallsensor dem Abstannd zur inneren Wand. Ist dieser =15 steuert der Servo die Position 91 an. Eigentlich währe zwar 93 die Mitte aber der Servo ist nicht genau mittig mit der Radachse verbunden. Ist der Wert des Ultraschallsensors <15 steuert der Servo die Position 81 (leichte linkskurve) an. Wenn der Wert >15 ist, steuert der Servo die Position 99 (leichte Rechtskurve) an. So fährt das Auto mit leichten kurven an der Wand entlang. Ist der Linke Ultraschallsensor dann aber >60 steuert der Servo die Position 123 (starke Rechtskurve) an, wartet dan biss der Wert wieder <= 15 ist und beginnt von vorne.
 
-Bei der Fahrt gegen den Uhrzeigersinn...
+Bei der Fahrt gegen den Uhrzeigersinn Treht sich der Motor ebenfalls dauerhaft vorwärts. Dabei misst der Linke Ultraschallsensor dem Abstannd zur inneren Wand. Ist dieser =15 steuert der Servo die Position 91 an. Ist der Wert des Ultraschallsensors <15 steuert der Servo die Position 100 (leichte Rechtskurve) an. Wenn der Wert >15 ist, steuert der Servo die Position 82 (leichte Linkskurve) an. So fährt das Auto mit leichten kurven an der Wand entlang. Ist der Rechte Ultraschallsensor dann aber >60 steuert der Servo die Position 63 (starke Linkskurve) an, wartet dan biss der Wert wieder <= 15 ist und beginnt von vorne.
 
 
 Um die zweite Aufgabe zu lösen...
