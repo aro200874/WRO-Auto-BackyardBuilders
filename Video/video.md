@@ -4,11 +4,13 @@
 ohne Objekte:
 ---
 im Uhrzeigersinn:
+
 gegen den Uhrzeigersinn:
 
 ---
 
-ohne Objekte:
+mit Objekten:
 ---
 im Uhrzeigersinn:
+
 gegen den Uhrzeigersinn:
