@@ -2,15 +2,9 @@
 
 
 ohne Objekte:
----
-im Uhrzeigersinn:
-
-gegen den Uhrzeigersinn:
+https://youtube.com/shorts/2IPXJDEd3eE?feature=share
 
 ---
 
 mit Objekten:
----
-im Uhrzeigersinn:
-
-gegen den Uhrzeigersinn:
+....
